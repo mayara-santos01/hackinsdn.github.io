@@ -1,0 +1,12 @@
+site:
+  name: GT-HackInSDN
+  tagline: alguma tagline
+  description: Alguma descricao
+  keywords: segurança, sdn, redes, security, flowspec, misp, zeek, kytos
+
+main:
+  welcomeSection:
+    anchor: bemvindo
+    heading: Bem-vindo(a) ao site do GT-HackInSDN
+    p1: GT-HackInSDN
+
