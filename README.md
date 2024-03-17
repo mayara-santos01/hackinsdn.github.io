@@ -1,3 +1,9 @@
+# HackInSDN - website
+
+This repo contains the webpage for the HackInSDN project, accepted on the open call Hackers do Bem from RNP.
+
+Please find below examples of layout, formatting, etc. The main webpage is defined on `index.md` file.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -6,7 +12,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-![HackInSDN big picture](/hackinsdn/assets/hackinsdn-bigpic.png)
+![HackInSDN big picture](/assets/hackinsdn-bigpic.png)
 
 # Header 1
 
