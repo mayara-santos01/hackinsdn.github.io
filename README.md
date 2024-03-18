@@ -2,6 +2,10 @@
 
 This repo contains the webpage for the HackInSDN project, accepted on the open call Hackers do Bem from RNP.
 
+References for building the page:
+- Manual multilingual jekyll: https://matthewlincoln.net/2020/03/01/multilingual-jekyll.html
+- flag icons: https://github.com/lipis/flag-icons
+
 Please find below examples of layout, formatting, etc. The main webpage is defined on `index.md` file.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
