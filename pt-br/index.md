@@ -6,7 +6,7 @@ HackInSDN está projetada para ser operada no ambiente distribuído de testbeds 
 
 A Figura abaixo apresenta uma visão geral do HackInSDN.
 
-![HackInSDN big picture](/assets/img/hackinsdn.png)
+![HackInSDN big picture](/assets/img/hackinsdn.png){:.centered}
 
 Os principais módulos da ferramenta são:
 - **AI-Powered Anomaly Detection**: este componente será integrado ao Orquestrador de redes e receberá uma série de métricas de rede para então processar algoritmos de detecção de anomalias via Aprendizagem de Máquina Estatística e então gerar Alertas de Anômalia.
