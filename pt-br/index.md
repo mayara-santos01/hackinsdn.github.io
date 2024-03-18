@@ -29,7 +29,9 @@ Os principais módulos da ferramenta são:
 
 # Agradecimentos
 
-O projeto HackInSDN foi contemplado na Chamada Hackers do Bem, [chamada pública para Pesquisa e Desenvolvimento 2023](https://www.rnp.br/noticias/hackers-do-bem-resultado-da-chamada-publica-para-pesquisa-e-desenvolvimento-2023).
+O projeto HackInSDN foi contemplado na Chamada Hackers do Bem, [chamada pública para Pesquisa e Desenvolvimento 2023](https://www.rnp.br/noticias/hackers-do-bem-resultado-da-chamada-publica-para-pesquisa-e-desenvolvimento-2023){:target="_blank"}.
+
+Leia mais sobre o [Projeto Hackers do Bem](https://hackersdobem.org.br){:target="_blank"}.
 
 # Mais informações
 
