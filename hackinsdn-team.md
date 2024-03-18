@@ -2,4 +2,4 @@
 lang: pt-br
 ---
 
-{% include pt-br/hackinsdn-team.html %}
+{% include_relative pt-br/hackinsdn-team.md %}

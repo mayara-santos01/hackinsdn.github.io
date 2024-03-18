@@ -2,4 +2,4 @@
 lang: pt-br
 ---
 
-{% include pt-br/index.html %}
+{% include_relative pt-br/index.md %}

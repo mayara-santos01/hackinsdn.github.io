@@ -2,4 +2,4 @@
 lang: pt-br
 ---
 
-{% include pt-br/source-code-license.html %}
+{% include_relative pt-br/source-code-license.md %}

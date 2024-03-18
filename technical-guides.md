@@ -2,4 +2,4 @@
 lang: pt-br
 ---
 
-{% include pt-br/technical-guides.html %}
+{% include_relative pt-br/technical-guides.md %}
