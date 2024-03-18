@@ -1,5 +1,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-multiple-languages-plugin
+languages: ["pt-br", "en"]
 title: GT HackInSDN - Hackers do bem
 description: Infraestrutura programável em testbed para ensino de redes e segurança

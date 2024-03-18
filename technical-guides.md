@@ -1,1 +1,1 @@
-# Technical Guides
+{% tf technical-guides.md %}

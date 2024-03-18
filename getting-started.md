@@ -1,3 +1,1 @@
-# Getting started
-
-TODO
+{% tf getting-started.md %}
