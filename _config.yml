@@ -3,3 +3,12 @@ plugins:
 - jekyll-remote-theme
 title: GT HackInSDN - Hackers do bem
 description: Infraestrutura programável em testbed para ensino de redes e segurança
+defaults:
+  - scope:
+      path: "pt-br"
+    values:
+      lang: "pt-br"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
