@@ -1,7 +1,7 @@
-# Equipe do HackInSDN
+# HackInSDN team
 
 - Leobino Nascimento Sampaio, UFBA
-- Italo Valcy da Silva Brito, UFBA e FIU 
+- Italo Valcy da Silva Brito, UFBA and FIU 
 - Allan Edgard Silva Freitas, IFBA
 - Jerônimo Bezerra, FIU
 - Talita Rocha Pinheiro, UFBA
