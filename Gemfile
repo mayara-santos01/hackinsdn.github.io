@@ -1,3 +1,5 @@
+source 'https://rubygems.org'
+
 group :jekyll_plugins do
-  gem 'jekyll-multiple-languages-plugin'
+  gem 'jekyll-multiple-languages-plugin', '~> 1.8'
 end
