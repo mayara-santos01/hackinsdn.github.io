@@ -5,3 +5,18 @@
 .inner {
   max-width: 840px;
 }
+.fi {
+  position: relative;
+  display: inline-block;
+  width: 1.333333em;
+  line-height: 1em;
+}
+.fi:before {
+  content: " ";
+}
+.fi-br {
+  background-image: url(/assets/flags/4x3/br.svg);
+}
+.fi-us {
+  background-image: url(/assets/flags/4x3/us.svg);
+}
