@@ -1,3 +1,5 @@
-# Getting started
+---
+lang: pt-br
+---
 
-TODO
+{% include pt-br/getting-started.md %}

@@ -1,3 +1,5 @@
-# Source code and Licenses
+---
+lang: pt-br
+---
 
-TODO
+{% include pt-br/source-code-license.md %}

@@ -1,1 +1,5 @@
-# Technical Guides
+---
+lang: pt-br
+---
+
+{% include pt-br/technical-guides.md %}
