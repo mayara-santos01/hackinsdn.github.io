@@ -1,8 +1,8 @@
 # Suricata 
 
-**What is Suricata?** 
-
 ![Suricata logo](/assets/img/suricata-logo.png){:.centered}
+
+**What is Suricata?** 
 
 - Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine. It is open source and owned by a community-run non-profit foundation, the Open Information Security Foundation (OISF). Suricata is developed by the OISF.
 - In this sense, as an IDS, Suricata can be used to analyse live data traffic, from an interface of the chosen device, or to analyse packets that contain traffic, such as *.pcap* files.
