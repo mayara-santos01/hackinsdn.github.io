@@ -15,7 +15,7 @@ The main components are presented below:
 - **Intelligent Containment and Filtering**: the goal here is to enable attack mitigation and filtering from the anoumaly events and alerts detected, or even from network operator requests through the API.
 
 - **AI-Powered Anomaly Detection**: (translation peding - work in progress) este componente será integrado ao Orquestrador de redes e receberá uma série de métricas de rede para então processar algoritmos de detecção de anomalias via Aprendizagem de Máquina Estatística e então gerar Alertas de Anômalia.
-- **Suricata IDS**: Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine. It is open source and owned by a community-run non-profit foundation, the Open Information Security Foundation (OISF). Suricata is developed by the OISF. [Read more](./suricata.html)
+- **Suricata**: Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine. It is open source and owned by a community-run non-profit foundation, the Open Information Security Foundation (OISF). Suricata is developed by the OISF. [Read more](./suricata.html)
 - **MISP Threat Intelligence and Sharing**: (translation peding - work in progress)mecanismos de inteligência de ameaça e compartilhamento de informações de segurança são essenciais para defesa e pesquisa em segurança atualmente.
 - **Adversary Simulator**: (translation peding - work in progress)um conjunto de ferramentas do estado da arte e voltadas para offensive security será disponibilizada como parte do projeto HackInSDN para ser utilizadas na perspectiva de hacking ético e simular tráfego malicioso no ambiente descrito acima.
 
