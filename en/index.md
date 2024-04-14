@@ -1,23 +1,23 @@
-HackInSDN is a framework that provides programmable infrastructure for teaching/learning networking and cybersecurity using testbed environments. Leveraging the network programmability provided by SDN environments, along with modern and classic network security tools, the HackInSDN framework enables enriched teaching and learning environment for advanced topics in Cybersecurity and Networking. A few examples of areas for studying, experimentation and research using HackInSDN include: Intrusion Detection Systems, Anoumaly Detection supported by Artificial Intelligence and Machine Learning, Dynamic Attack Mitigation, Isolated attacks simulation, Threat Intelligence information sharing, etc.
+HackInSDN is a framework that provides programmable infrastructure for teaching/learning networking and cybersecurity using testbed environments. Leveraging the network programmability provided by SDN environments, along with modern and classic network security tools, the HackInSDN framework enables an enriched teaching and learning environment for advanced topics in Cybersecurity and Networking. Some areas for studying, experimenting, and researching using HackInSDN include Intrusion Detection Systems, Anomaly Detection supported by Artificial Intelligence and Machine Learning, Dynamic Attack Mitigation, Isolated attacks simulation, Threat Intelligence information sharing, etc.
 
-The HackInSDN can be instantiated on distributed testbed environments such as RNP's national testbed infrastructure, as well as other testbed enivonments.
+The HackInSDN can be instantiated on distributed testbed environments such as RNP's infrastructure and other testbed environments.
 
 # Overview
 
-The following picture ilustrates overall HackInSDN architecture.
+The following picture illustrates the overall HackInSDN architecture.
 
 ![HackInSDN big picture](/assets/img/hackinsdn.png){:.centered}
 
 The main components are presented below:
 
-- **Programmable Network Orchestrator**: the network Orchestrator plays a central role on HackInSDN architecture by enabling provisioning, management and monitoring services, as well as integrating all other components. The Kytos-ng (https://kytos-ng.github.io) SDN orchestrator is used in HackInSDN framework, because it provides at-scale production-grade SDN orchestration along with a robust and flexible software layer.
-- **Adaptive Mirroring**: this compoment will be developed to allow granular traffic mirroring on the services provisioned by the network Orchestrator for traffic inspection and monitoring.
-- **Intelligent Containment and Filtering**: the goal here is to enable attack mitigation and filtering from the anoumaly events and alerts detected, or even from network operator requests through the API.
+- **Programmable Network Orchestrator**: The network Orchestrator plays a central role in HackInSDN architecture by enabling provisioning, management, and monitoring services andating all other components. The Kytos-ng (https://kytos-ng.github.io) SDN orchestrator is used in the HackInSDN framework because it provides at-scale production-grade SDN orchestration along with a robust and flexible software layer.
+- **Adaptive Mirroring**: This component will be developed to allow granular traffic mirroring of the services provisioned by the network Orchestrator for traffic inspection and monitoring.
+- **Intelligent Containment and Filtering**: The goal here is to enable attack mitigation and filtering based on the anomaly events and alerts detected or network operator requests through the API.
+- **AI-Powered Anomaly Detection**: the AI-powered Anomaly Detection component integrates with the Network Orchestrator to receive measurements and generate anomaly alerts. Different network metrics will be analyzed using Machine Learning algorithms (supervised and unsupervised) to indicate perturbations on the normal behavior.
+- **Suricata**: Suricata is a high-performance Network IDS, IPS, and Network Security Monitoring engine. It is open source and owned by a community-run non-profit foundation, the Open Information Security Foundation (OISF). Suricata is developed by the OISF. [Read more](./suricata.html)
+- **MISP Threat Intelligence and Sharing**: HackInSDN will provide means for sharing, storing, and correlating Indicators of Compromises of targeted attacks. Leveraging the MISP threat intelligence platform, defensive security teams (blue teams) will be able to share threat indicators, threat intelligence, and IP/DNS/URL reputation to enable automated detection and responsiveness to attacks.
 
-- **AI-Powered Anomaly Detection**: (translation peding - work in progress) este componente será integrado ao Orquestrador de redes e receberá uma série de métricas de rede para então processar algoritmos de detecção de anomalias via Aprendizagem de Máquina Estatística e então gerar Alertas de Anômalia.
-- **Suricata**: Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine. It is open source and owned by a community-run non-profit foundation, the Open Information Security Foundation (OISF). Suricata is developed by the OISF. [Read more](./suricata.html)
-- **MISP Threat Intelligence and Sharing**: (translation peding - work in progress)mecanismos de inteligência de ameaça e compartilhamento de informações de segurança são essenciais para defesa e pesquisa em segurança atualmente.
-- **Adversary Simulator**: (translation peding - work in progress)um conjunto de ferramentas do estado da arte e voltadas para offensive security será disponibilizada como parte do projeto HackInSDN para ser utilizadas na perspectiva de hacking ético e simular tráfego malicioso no ambiente descrito acima.
+- **Adversary Simulator**: leveraging a variety of state-of-the-art tools and methodologies, this component provides means to replicate attack scenarios, including basic and common adversary tactics as well as sophisticated targeted attacks. Using the adversary simulator, students will benefit from different perspectives: gain knowledge of offensive security tools and methodologies, evaluate defensive security systems, exercise methodologies for incident handling, and gain practical experience in responding to skilled attacks.
 
 # Partern Organizations
 
