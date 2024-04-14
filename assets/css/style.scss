@@ -36,3 +36,14 @@ img.centered {
 .text-align-right {
   text-align: right;
 }
+.navibar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.navibar ul {
+  display: flex;
+  list-style: none;
+}
