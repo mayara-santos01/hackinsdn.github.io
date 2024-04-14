@@ -5,6 +5,9 @@
 .inner {
   max-width: 960px;
 }
+#header_wrap {
+  background: #212121;
+}
 .main-content {
   p {
     text-align: justify;
@@ -38,9 +41,15 @@ img.centered {
 }
 .navibar {
   position: fixed;
+  background: #212121;
+  width: 100%;
+  z-index: 1030;
 }
 
 .navibar ul {
   display: flex;
+  padding: 20px;
+  max-width: 960px;
   list-style: none;
+  margin: 0 auto;
 }
