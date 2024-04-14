@@ -1,0 +1,24 @@
+- title:
+    pt-br: Home
+    en: Home
+  link: /
+
+- title:
+    en: Getting Started
+    pt-br: Instalação
+  link: /getting-started/
+
+- title:
+    en: Publications
+    pt-br: Publicações
+  link: /publications/
+
+- title:
+    en: Technical Guides
+    pt-br: Tutoriais
+  link: /technical-guides/
+
+- title:
+    en: About
+    pt-br: Sobre
+  link: /about/
