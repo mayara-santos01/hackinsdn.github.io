@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import "/assets/css/bootstrap.min.css";
 .inner {
   max-width: 960px;
 }
