@@ -8,6 +8,9 @@
 #header_wrap {
   background: #212121;
 }
+#header_wrap .inner {
+  passing: 80px 10px 30px 10px;
+}
 .main-content {
   p {
     text-align: justify;
@@ -46,10 +49,14 @@ img.centered {
   z-index: 1030;
 }
 
+.navibar div {
+  display: flex;
+  padding: 10px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .navibar ul {
   display: flex;
-  padding: 20px;
-  max-width: 960px;
   list-style: none;
-  margin: 0 auto;
 }

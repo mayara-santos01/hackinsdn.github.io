@@ -14,20 +14,22 @@
   <body>
 
     <nav class="navibar">
+      <div>
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Publications</a></li>
         <li><a href="#">Contact</a></li>
         <li><a href="#">Tutorials</a></li>
       </ul>
+      <section id="languages" class="text-align-right">
+        <a href="/pt-br/"><span class="fi fi-br"></span></a>
+        <a href="/en/"><span class="fi fi-us"></span></a>
+      </section>
+      </div>
     </nav>
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <section id="languages" class="text-align-right">
-            <a href="/pt-br/"><span class="fi fi-br"></span></a>
-            <a href="/en/"><span class="fi fi-us"></span></a>
-          </section>
 
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
