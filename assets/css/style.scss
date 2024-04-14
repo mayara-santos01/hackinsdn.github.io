@@ -2,12 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-@import "/assets/css/bootstrap.min.css";
 .inner {
-  max-width: 960px;
+  max-width: 1140px;
 }
 #header_wrap {
-  background: #212121;
+  background: #343a40;
 }
 #header_wrap .inner {
   padding: 80px 10px 30px 10px;
@@ -43,31 +42,3 @@ img.centered {
 .text-align-right {
   text-align: right;
 }
-.bg-dark {
-  background-color: #212121;
-}
-//.navibar {
-//  position: fixed;
-//  background: #212121;
-//  width: 100%;
-//  z-index: 1030;
-//}
-//
-//.navibar div {
-//  display: flex;
-//  padding: 10px;
-//  max-width: 960px;
-//  margin: 0 auto;
-//}
-//
-//.navibar ul {
-//  display: flex;
-//  list-style: none;
-//}
-//
-//.navibar ul li a {
-//  color: #fff;
-//  font-size: 24px;
-//  font-weight: 500;
-//  padding-right: .5em;
-//}

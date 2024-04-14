@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--<link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/bootstrap.min.css?v=' | append: site.github.build_revision | relative_url }}">-->
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/bootstrap.min.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
     {% include head-custom.html %}
@@ -14,9 +14,10 @@
 
   <body>
 
+    <!-- Navbar (bootstrap) -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
      <div class="container">
-      <a class="navbar-brand" href="#">Navbar w/ text</a>
+      <a class="navbar-brand" href="#">HackInSDN</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -26,10 +27,13 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="#">Publications</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Tutorials</a>
           </li>
         </ul>
         <span class="navbar-text">
@@ -40,22 +44,6 @@
      </div>
     </nav>
 
-<!--
-    <nav class="navibar">
-      <div>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Publications</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Tutorials</a></li>
-      </ul>
-      <section id="languages" class="text-align-right">
-        <a href="/pt-br/"><span class="fi fi-br"></span></a>
-        <a href="/en/"><span class="fi fi-us"></span></a>
-      </section>
-      </div>
-    </nav>
--->
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
