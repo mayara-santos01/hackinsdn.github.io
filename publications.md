@@ -1,3 +1,5 @@
-# Publications
+---
+lang: pt-br
+---
 
-TODO
+{% include_relative pt-br/publications.md %}
