@@ -17,5 +17,5 @@ Some of the main functions of a SDN controller:
 
 #### References
 
-O. Salman, I. H. Elhajj, A. Kayssi and A. Chehab, "SDN controllers: A comparative study," 2016 18th Mediterranean Electrotechnical Conference (MELECON), Lemesos, Cyprus, 2016, pp. 1-6, doi: 10.1109/MELCON.2016.7495430.
+1. O. Salman, I. H. Elhajj, A. Kayssi and A. Chehab, "SDN controllers: A comparative study," 2016 18th Mediterranean Electrotechnical Conference (MELECON), Lemesos, Cyprus, 2016, pp. 1-6, doi: 10.1109/MELCON.2016.7495430.
 
