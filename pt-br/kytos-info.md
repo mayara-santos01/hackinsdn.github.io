@@ -17,4 +17,4 @@ O Kytos-ng está sendo utilizado em projetos como [AmLight](https://www.amlight.
 
 #### Referências
 
-O. Salman, I. H. Elhajj, A. Kayssi e A. Chehab, "Controladores SDN: Um estudo comparativo", 2016 18th Mediterranean Electrotechnical Conference (MELECON), Lemesos, Chipre, 2016, pp. 1-6, doi: 10.1109/MELCON.2016.7495430.
+1. O. Salman, I. H. Elhajj, A. Kayssi e A. Chehab, "Controladores SDN: Um estudo comparativo", 2016 18th Mediterranean Electrotechnical Conference (MELECON), Lemesos, Chipre, 2016, pp. 1-6, doi: 10.1109/MELCON.2016.7495430.
