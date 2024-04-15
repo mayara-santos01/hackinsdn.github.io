@@ -1,6 +1,6 @@
 # Suricata
 
-![Suricata logo](../assets/suricata.jpg)
+![Suricata logo](/assets/img/suricata-logo.png){:.centered}
 
 ## O que é Suricata?
 
