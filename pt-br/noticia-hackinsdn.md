@@ -2,7 +2,7 @@
 
 **GT financiado pela Rede Nacional de Ensino e Pesquisa (RNP) através do projeto Hackers do Bem.**
 
-![HackInSDN big picture](/assets/img/banner-hackinsdn-pt-br.png){:.centered}
+![HackInSDN big picture](/assets/img/banner-hackinsdn-pt-br.png){:.centered.img-fluid}
 
 O GT-HackInSDN é um projeto desenvolvido pela Universidade Federal da Bahia (UFBA), em parceria com o Instituo Federal da Bahia (IFBA) e a Universidade Internacional da Flórida (FIU), que visa criar uma infraestrutura programável em testbed para ensino cibersegurança ofensiva e defensiva. Trata-se de um pacote de ferramentas que oferecerá um ambiente mais robusto e completo para capacitação em tópicos avançados de segurança, através da programabilidade de redes. A arquitetura do HackInSDN inclue componentes para de detecção de anomalias apoiados pela Inteligência Artificial, mecanismos de contenção e filtragem de ataques dinâmicos, ferramental para simulação de ataques, base de dados para inteligência de ameaças dentre outros.
 
