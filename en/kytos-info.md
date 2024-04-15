@@ -1,4 +1,4 @@
-# Programmable Network Orchestrator:
+# Programmable Network Orchestrator
 
 A Software Defined Network is a more centralized network, in comparison with the traditional ones, in which the data plane is separated from the control plane. In this sense, the control plane is represented by the SDN controller, while the routers and switches, in this structure, are only dedicated to promote the data transferences [SALMAN et al, 2020]. In this sense, the communication between controllers, switches and routers can be made using the OpenFlow scenario.
 
