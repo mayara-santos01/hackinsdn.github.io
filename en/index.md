@@ -10,7 +10,7 @@ The following picture illustrates the overall HackInSDN architecture.
 
 The main components are presented below:
 
-- **Programmable Network Orchestrator**: The network Orchestrator plays a central role in HackInSDN architecture by enabling provisioning, management, and monitoring services andating all other components. The Kytos-ng (https://kytos-ng.github.io) SDN orchestrator is used in the HackInSDN framework because it provides at-scale production-grade SDN orchestration along with a robust and flexible software layer.
+- **Programmable Network Orchestrator**: The network Orchestrator plays a central role in HackInSDN architecture by enabling provisioning, management, and monitoring services andating all other components. The Kytos-ng (https://kytos-ng.github.io) SDN orchestrator is used in the HackInSDN framework because it provides at-scale production-grade SDN orchestration along with a robust and flexible software layer. [Read more](./kytos-info.html)
 - **Adaptive Mirroring**: This component will be developed to allow granular traffic mirroring of the services provisioned by the network Orchestrator for traffic inspection and monitoring.
 - **Intelligent Containment and Filtering**: The goal here is to enable attack mitigation and filtering based on the anomaly events and alerts detected or network operator requests through the API.
 - **AI-Powered Anomaly Detection**: the AI-powered Anomaly Detection component integrates with the Network Orchestrator to receive measurements and generate anomaly alerts. Different network metrics will be analyzed using Machine Learning algorithms (supervised and unsupervised) to indicate perturbations on the normal behavior.
