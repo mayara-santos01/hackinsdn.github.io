@@ -1,4 +1,4 @@
-# AI-Powered Anomaly Detection:
+# AI-Powered Anomaly Detection
 
 ![Anomaly Detection Logo](/assets/img/anomaly-detection-logo.png){:.centered}
 
