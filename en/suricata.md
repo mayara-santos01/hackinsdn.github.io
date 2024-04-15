@@ -12,4 +12,8 @@
 **Use of Suricata in HackInSDN project:**
 
 - HackInSDN aims to create a network security solution, which will be able to be used by educational institutions to train students that will be capable of working with network security. It can also be used by enterprises to promote safety in their networks.
-- In this sense, Suricata will be used as an IDS to analyse live data traffic from specific interfaces. Thus, Suricata will be essential to detect the attacks that are coming into the analysed network, and the possibility of integraion with the SDN controller and other modules will be used to promote the prevention of attacks. In other words, Suricata will detect attacks that will by analysed and mitigated by other modules. 
+- In this sense, Suricata will be used as an IDS to analyse live data traffic from specific interfaces. Thus, Suricata will be essential to detect the attacks that are coming into the analysed network, and the possibility of integraion with the SDN controller and other modules will be used to promote the prevention of attacks. In other words, Suricata will detect attacks that will by analysed and mitigated by other modules.
+
+References:
+
+1. [Suricata Official Documentation](https://docs.suricata.io/en/latest/)
