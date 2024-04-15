@@ -4,9 +4,9 @@
 
 ## O que é Suricata?
 
-- Suricata é um mecanismo de alta performance para IDS (Sistema de Detecção de Intrusão), IPS (Sistema de Prevenção de Intrusão) e Monitoramento de Segurança de Rede. É um software open source mantido por uma fundação sem fins lucrativos administrada pela comunidade, a Open Information Security Foundation (OISF). O Suricata é desenvolvido pela OISF.
+- Suricata é uma ferramenta de alta performance que pode funcionar como IDS (Sistema de Detecção de Intrusão) ou IPS (Sistema de Prevenção de Intrusão) e promove monitoramento de segurança de rede. É um software open source mantido por uma fundação sem fins lucrativos administrada pela comunidade, a Open Information Security Foundation (OISF). O Suricata é desenvolvido pela OISF.
 - Sendo assim, como um IDS, o Suricata pode ser usado para analisar tráfego de rede ao vivo, a partir de uma interface do dispositivo escolhido, ou para analisar pacotes que contêm tráfego, como arquivos *.pcap*.
-- O Suricata contém um amplo conjunto de regras, frequentemente atualizadas, e os usuários também podem criar suas próprias regras, ampliando as possibilidades de detecção de ataques.
+- O Suricata contém um amplo conjunto de regras, frequentemente atualizadas, e os usuários também podem criar suas próprias regras e usar regras de fontes diversas, como as *Emerging Threats Rules*, ampliando as possibilidades de detecção de ataques.
 - A partir das regras, alertas são gerados, e assim as possibilidades de ataques podem ser analisadas por outros programas, caso o Suricata esteja sendo usado apenas como um IDS. 
 
 ## Uso do Suricata no projeto HackInSDN
