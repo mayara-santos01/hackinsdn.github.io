@@ -2,7 +2,7 @@
 
 ![Anomaly Detection Logo](/assets/img/anomaly-detection-logo.png){:.centered}
 
-A inteligência artificial teve um grande desenvolvimento nos últimos anos devido a fatores que incluem a quantidade crescente de dados disponíveis para estudo, melhorias em algoritmos e hardware. O progresso da IA possibilitou a realização de tarefas que eram, até então, basicamente impossíveis de serem calculadas [Došilović et al, 2018]. Nesse sentido, a IA já está sendo usada para promover a segurança cibernética e, por exemplo, existem ferramentas que a utilizam para detectar anomalias no tráfego, funcionando como uma alternativa à detecção baseada em assinaturas.
+A inteligência artificial teve um grande desenvolvimento nos últimos anos devido a fatores que incluem a quantidade crescente de dados disponíveis para estudo, melhorias em algoritmos e hardware. O progresso da IA possibilitou a realização de tarefas que eram, até então, basicamente impossíveis de serem calculadas [Došilović et al, 2018]. Nesse sentido, a IA já está sendo usada para promover a segurança cibernética e, por exemplo, existem ferramentas que a utilizam para detectar anomalias no tráfego, funcionando como uma alternativa à detecção baseada em assinaturas. Um dos objetivos do HackInSDN é promover a diversidade nos sistemas de defesa. Por isso, a detecção de anomalias baseada em IA será utilizada juntamente com outras técnicas, como as baseadas em assinatura.
 
 Nessa perspectiva, é válido destacar algumas vantagens e desafios do uso de IA na detecção de anomalias.
 
