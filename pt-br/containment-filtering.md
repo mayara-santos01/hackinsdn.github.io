@@ -1,6 +1,6 @@
 # Contenção e Filtragem Inteligente
 
-![Contanment and filetering logo](/assets/img/conteinment-filtering-logo.png){:.centered}
+![Containment and filtering logo](/assets/img/containment-filtering-logo.png){:.centered}
 
 A função do módulo de Contenção e Filtragem Inteligente é mitigar ataques identificados por outros módulos ou em resposta a uma solicitação direta de API do Orquestrador de Rede. Neste contexto, contenção e filtragem podem ser discutidas como duas técnicas de mitigação de ataques.
 
