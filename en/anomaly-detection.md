@@ -2,7 +2,7 @@
 
 ![Anomaly Detection Logo](/assets/img/anomaly-detection-logo.png){:.centered}
 
-Artificial intelligence had a great development in the last few years due to factors that include the increasing amount of available data to study, improvements in algorithms and hardware. The progress of AI made it possible to compute tasks that were, so far, basically impossible to compute [Došilović et al, 2018]. In this sense, AI is already being used to promote cybersecurity and, for example, there are tools that use it to detect anomalies in traffic, working as an alternative to signature based detection.
+Artificial intelligence had a great development in the last few years due to factors that include the increasing amount of available data to study, improvements in algorithms and hardware. The progress of AI made it possible to compute tasks that were, so far, basically impossible to compute [Došilović et al, 2018]. In this sense, AI is already being used to promote cybersecurity and, for example, there are tools that use it to detect anomalies in traffic, working as an alternative to signature based detection. One of the objectives of HackInSDN is to promote diversity in the defense systems, thus, AI anomaly detection will be used along with other techniques, such as the signature based ones.
 
 From this perspective, it is valid to point out some advantages and challenges of AI use in anomaly detection.
 
