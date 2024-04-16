@@ -1,5 +1,7 @@
 # Intelligent Containment and Filtering
 
+![Containment and filtering logo](/assets/img/containment-filtering-logo.png){:.centered}
+
 The function of the Intelligent Containment and Filtering module is the mitigation of attacks identified by other modules, or in response to a direct API request from the Network Orchestrator. In this context, containment and filtering can be discussed as two techniques of attack mitigation. 
 
 ## Containment
@@ -16,4 +18,5 @@ Containment techniques are generally related to the use of IPS tools, and are ba
 ## Filtering / Scrubbing Services
 
 Scrubbing services are related to the sending of the traffic towards DNS or BGP server, in order to promote traffic filtering and, thus, the attack target will only receive legitimate traffic. One of the differences between this technique and traffic containment is the direct traffic manipulation that is taken in containment techniques, while in  scrubbing services the mitigation actions are taken by DNS or BGP servers.
-In this context, we can conclude that traffic filtering is a technique which requires less configuration than the traffic containment technique
+
+In this context, we can conclude that traffic filtering is a technique which requires less configuration than the traffic containment technique.
