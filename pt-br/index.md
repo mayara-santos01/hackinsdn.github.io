@@ -13,9 +13,9 @@ Os principais módulos da ferramenta são:
 - **[Suricata](./suricata.html)**: Suricata é uma ferramenta de alta performance que pode funcionar como IDS (Sistema de Detecção de Intrusão) ou IPS (Sistema de Prevenção de Intrusão) e promove monitoramento de segurança de rede. É um software open source mantido por uma fundação sem fins lucrativos administrada pela comunidade, a Open Information Security Foundation (OISF). O Suricata é desenvolvido pela OISF.
 - **[Programmable Network Orchestrator](./kytos-info.html)** o Orquestrador de Redes programável desempenha papel central na arquitetura provendo os serviços de gerenciamento e provisionamento da rede, e também integrando os demais componentes. O Kytos-ng (https://kytos-ng.github.io) é a plataforma de orquestração SDN que será usada como base no HackInSDN, pois incorpora uma solução de controle SDN escalável, flexível e altamente customizável/programável.
 - **Adaptive Mirroring**: este módulo será desenvolvido no contexto do projeto HackInSDN para permitir o espelhamento de tráfego granular e elástico nos serviços de rede provisionados pelo Orquestrador.
-- **Intelligent Containment and Filtering**: o papel deste módulo é prover serviços de contenção e filtragem de ataques a partir das anomalias e alertas detectados, ou a partir da solicitação do operador de redes.
+- **[Intelligent Containment and Filtering](./containment-filtering.html)**: o papel deste módulo é prover serviços de contenção e filtragem de ataques a partir das anomalias e alertas detectados, ou a partir da solicitação do operador de redes.
 - **MISP Threat Intelligence and Sharing**: mecanismos de inteligência de ameaça e compartilhamento de informações de segurança são essenciais para defesa e pesquisa em segurança atualmente.
-- **Adversary Simulator**: um conjunto de ferramentas do estado da arte e voltadas para offensive security será disponibilizada como parte do projeto HackInSDN para ser utilizadas na perspectiva de hacking ético e simular tráfego malicioso no ambiente descrito acima.
+- **[Adversary Simulator](./adversary-simulator.html)**: um conjunto de ferramentas do estado da arte e voltadas para offensive security será disponibilizada como parte do projeto HackInSDN para ser utilizadas na perspectiva de hacking ético e simular tráfego malicioso no ambiente descrito acima.
 
 # Instituições parceiras
 
