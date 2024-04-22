@@ -2,7 +2,7 @@
 
 ![Containment and filtering logo](/assets/img/containment-filtering-logo.png){:.centered}
 
-The function of the Intelligent Containment and Filtering module is the mitigation of attacks identified by other modules, or in response to a direct API request from the Network Orchestrator. In this context, containment and filtering can be discussed as two techniques of attack mitigation. 
+The Intelligent Containment and Filtering module aims to provide means for mitigating attacks identified by other modules or in response to a direct API request from the Network Orchestrator. In this context, containment and filtering can be discussed as two techniques of attack mitigation. 
 
 ## Containment
 
