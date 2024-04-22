@@ -1,6 +1,6 @@
 # Orquestrador de redes programável
 
-[![Kytos-ng logo](assets/img/kytosng-logo.png)](https://github.com/kytos-ng/kytos?tab=readme-ov-file#kytos-ngkytos)
+![Kytos-ng logo](assets/img/kytosng-logo.png){:.centered}
 
 Uma rede definida por software (SDN) é uma rede mais centralizada, em comparação com as tradicionais, na qual o plano de dados é separado do plano de controle. Nesse sentido, o plano de controle é representado pelo controlador SDN, enquanto os roteadores e switches, nessa estrutura, se dedicam exclusivamente às transferências de dados [SALMAN et al, 2020]. A comunicação entre controladores, switches e roteadores pode ser feita usando o protocolo OpenFlow.
 
