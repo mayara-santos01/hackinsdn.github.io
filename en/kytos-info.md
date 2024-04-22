@@ -6,7 +6,7 @@ The HackInSDN project uses Kytos-ng as its SDN controller. Kytos-ng is an SDN co
 
 One of the main features of Kytos is the possibility of creating diverse Network Apps (Napps), which produce excellent operational flexibility. Moreover, Kytos has a lightweight core application, which requires few computational resources for execution.
 
-Kytos-ng is being used in projects such as [AmLight](https://www.amlight.net/), [AtlanticWave-SDX](https://www.atlanticwave-sdx.net/) and [Q-Factor](https://www.q-factor.io/).
+Kytos-ng is being used in projects such as [AmLight](https://www.amlight.net/), [AtlanticWave-SDX](https://github.com/atlanticwave-sdx) and [Q-Factor](https://www.q-factor.io/).
 
 Some of the main functions of a SDN controller:
 
