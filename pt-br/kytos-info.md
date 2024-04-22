@@ -1,5 +1,7 @@
 # Orquestrador de redes programável
 
+![Kytos-ng logo](/assets/img/kytosng-logo.png){:.centered}
+
 Uma rede definida por software (SDN) é uma rede mais centralizada, em comparação com as tradicionais, na qual o plano de dados é separado do plano de controle. Nesse sentido, o plano de controle é representado pelo controlador SDN, enquanto os roteadores e switches, nessa estrutura, se dedicam exclusivamente às transferências de dados [SALMAN et al, 2020]. A comunicação entre controladores, switches e roteadores pode ser feita usando o protocolo OpenFlow.
 
 O projeto HackInSDN utiliza o Kytos-ng como seu controlador SDN. Kytos-ng é um controlador SDN focado em estabilidade, escalabilidade e extensibilidade, sendo resultado de um trabalho conjunto entre a Universidade de São Paulo (UNESP), a Rede Acadêmica de São Paulo (rednesp) e a Florida International University (FIU).
