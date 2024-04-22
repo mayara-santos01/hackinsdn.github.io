@@ -4,7 +4,7 @@ Software-defined Networking is a new paradigm for orchestrating networks in whic
 
 In this sense, HackInSDN project use Kytos-ng as its SDN controller. Kytos-ng is a SDN controller focused in stability, scalability, and extensibility, being the result of a collaborative work between the Universidade de São Paulo (UNESP), the Rede Acadêmica de São Paulo (rednesp) and the Florida International University (FIU). 
 
-One of the main features of Kytos is the possibility of creating diverse Network Apps (Napps), which creates a great operational flexibility. Moreover, it is a light core application, which means few computational resources are required for its installation.
+One of the main features of Kytos is the possibility of creating diverse Network Apps (Napps), which produce excellent operational flexibility. Moreover, Kytos has a lightweight core application, which requires few computational resources for execution.
 
 Kytos-ng is being used in projects such as [AmLight](https://www.amlight.net/), [AtlanticWave-SDX](https://www.atlanticwave-sdx.net/) and [Q-Factor](https://www.q-factor.io/).
 
