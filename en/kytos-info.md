@@ -1,5 +1,7 @@
 # Programmable Network Orchestrator
 
+[![Kytos-ng logo](/assets/img/kytosng-logo.png){:.centered}](https://github.com/kytos-ng/kytos?tab=readme-ov-file#kytos-ngkytos)
+
 ![Kytos-ng logo](/assets/img/kytosng-logo.png){:.centered}
 
 Software-defined Networking is a new paradigm for orchestrating networks in which the data plane is separated from the control plane. In this sense, the control plane is represented by the SDN controller, while the routers and switches are only dedicated to forward packets according to the strategy applied by the controller [SALMAN et al, 2020]. SDN opens new possibilities to make the network much more flexible and programmable, enabling innovation at scale.
