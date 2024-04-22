@@ -6,7 +6,7 @@ One of the main aspects of cybersecurity training and experimentation is the usa
 
 There are many tools which can be used to promote ethical hacking, including:
 
-- D-ITG: Software that emulates Brazilian traffic, and can be used to emulate legitimate traffic; 
+- D-ITG: Software that generates trafﬁc that accurately adheres to patterns of well-known protocols/applications and can be used to simulate legitimate traffic; 
 - Kali Linux: Linux distribution which includes plenty of security tools, which can be used in the scope of HackInSDN project;
 - NMAP: A tool that can be used to emulate network scans and is widely used in ethical hacking;
 - Hping3: A tool that can be used to emulate plenty of different attack types, including TCP flood and IP spoofing.
