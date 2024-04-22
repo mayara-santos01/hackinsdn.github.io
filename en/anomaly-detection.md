@@ -24,7 +24,7 @@ There are diverse tools to promote the traffic anomaly detection, and some of th
 
 - Hogzilla-IDS: Network anomaly detection tool that uses AI techniques (not specified);
 - NeMo-DDoS: Software focused on DDoS attacks detection, works along with other software, such as Netflow and IPFIX to promote IP Flow reports. Uses Machine Learning to detect traffic patterns and, consequently, anomalies.
-- Kentik: Software that detects DDoS attacks through the combination of data from BGP tables, IP Flows (Sflow, Netflow, IPFIX). Kentik makes use of Artificial Intelligence and Machine Learning techniques, however, there is no further explanation about applied techniques.
+- Scikit-Learn: is a well-known software library for machine learning. It supports both supervised and unsupervised learning and has many tools for fitting models to data, preparing data, selecting and evaluating models, and selecting models.
 
 
 #### References:
