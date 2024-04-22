@@ -9,7 +9,7 @@ Nessa perspectiva, é válido destacar algumas vantagens e desafios do uso de IA
 ## Vantagens
 
 - Possibilidade de detecção de ataques desconhecidos, incluindo ataques *dayzero* (vulnerabilidades ainda não conhecidas);
-- Maior facilidade em lidar com tráfego criptografado, aplicando técnicas em cabeçalhos de pacotes para detectar anomalias;
+- Maior facilidade em lidar com tráfego criptografado, aplicando heurísticas em cabeçalhos de pacotes para detectar anomalias;
 - A detecção baseada em assinatura requer atualização frequente nos bancos de dados que contêm informações sobre ataques já conhecidos, e com a detecção de anomalias baseada em IA, o uso e a atualização de bancos de dados não são necessários.
 
 ## Desafios
