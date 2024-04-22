@@ -1,10 +1,10 @@
 # Programmable Network Orchestrator
 
+![Kytos-ng logo](/assets/img/kytosng-logo.png){:.centered}
+
 Software-defined Networking is a new paradigm for orchestrating networks in which the data plane is separated from the control plane. In this sense, the control plane is represented by the SDN controller, while the routers and switches are only dedicated to forward packets according to the strategy applied by the controller [SALMAN et al, 2020]. SDN opens new possibilities to make the network much more flexible and programmable, enabling innovation at scale.
 
 The HackInSDN project uses Kytos-ng as its SDN controller. Kytos-ng is an SDN controller focused on stability, scalability, and extensibility, being the result of a collaborative work between the Universidade de São Paulo (UNESP), the Rede Acadêmica de São Paulo (rednesp) and the Florida International University (FIU). 
-
-![Kytos-ng logo](/assets/img/kytosng-logo.png){:.centered}
 
 One of the main features of Kytos is the possibility of creating diverse Network Apps (Napps), which produce excellent operational flexibility. Moreover, Kytos has a lightweight core application, which requires few computational resources for execution.
 
