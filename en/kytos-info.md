@@ -12,7 +12,7 @@ Some of the main functions of a SDN controller:
 
 - Management: The controller needs to have knowledge about the topology of the network, and also should be able to recognize new links, in order to guarantee the connection of all nodes. Beyond that, the controller needs to have statistics about the components of the network;
 - Stability: The controller must be able to keep the circuit of the network running, in other words, being able to detect failures and keep supplying the network, in order to not completely interrupt the services. 
-- Data: The controller needs to guarantee the persistence of that at some level, which means that, in case of abrupt failures, the system will be able to continue the processes due to the stored data. This is possible when the coherence and safety of requisitions are guaranteed. Another aspect of data management is the control of coherence of data, i.e., the data obtained by the controller needs to be in consistency with the real data from network components.
+- Data: The controller needs to guarantee the persistence of user requests data, which means that, in case of abrupt failures, the system will be able to continue the processes due to the stored data. This is possible when the coherence and safety of requisitions are guaranteed. Another aspect of data management is the control of the coherence of data, i.e., the data obtained by the controller needs to be consistent with the real data from network components.
 - Services: The controller must be able to optimize the providing of services, as well as promoting the maintenance of the network, in order to keep services running. Another important service that should be supplied by the controller is the computation of paths for the packets.
 
 #### References
