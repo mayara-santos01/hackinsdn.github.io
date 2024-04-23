@@ -1,4 +1,4 @@
-<head>
-  <meta http-equiv="refresh" content="0; url=https://hackinsdn.github.io/pt-br/index.html">
-</head>
-
+---
+lang: pt-br
+---
+{% include_relative pt-br/index.md %}
